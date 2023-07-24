@@ -1,7 +1,7 @@
 {
   "name": "disney-clone",
   "version": "0.1.0",
-  "homepage": "https://nazrana4.github.io/react-gh-pages",
+  "homepage": "https://nazrana4.github.io/Disney-Clone-Reactjs",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
